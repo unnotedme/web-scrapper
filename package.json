@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "mongodb": "^6.3.0",
+    "puppeteer": "^22.3.0"
+  },
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
